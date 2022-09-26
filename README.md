@@ -18,9 +18,9 @@ A web app for kids based off a book, encouraging healthy lifestyles at a young a
  
 ## Links
  - [Project description](https://github.com/MarsWilliamsCode/Henry-Gets-Moving/ProjectDescription.md)
- - [Team meeting minutes](https://github.com/MarsWilliamsCode/Henry-Gets-Moving/MeetingMinutes/Team/)
- - [Mentor meeting minutes](https://github.com/MarsWilliamsCode/Henry-Gets-Moving/MeetingMinutes/Mentor/)
- - [Client / partner meeting minutes](https://github.com/MarsWilliamsCode/Henry-Gets-Moving/MeetingMinutes/ClientPartner/)
+ - [Team meeting minutes](https://github.com/MarsWilliamsCode/Henry-Gets-Moving/tree/main/MeetingMinutes/Team)
+ - [Mentor meeting minutes](https://github.com/MarsWilliamsCode/Henry-Gets-Moving/tree/main/MeetingMinutes/Mentor)
+ - [Client / partner meeting minutes](https://github.com/MarsWilliamsCode/Henry-Gets-Moving/tree/main/MeetingMinutes/ClientPartner/)
 
 ## Code Repositories
 Coming soon!
