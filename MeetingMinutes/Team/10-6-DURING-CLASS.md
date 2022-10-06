@@ -1,4 +1,21 @@
-# Meeting Minutes
+# Class time 10/6/2022
+
+## Meeting Start Time
+2022/10/06/09:30
+
+## Meeting End Time
+2022/10/06/10:48
+
+## Location / Medium
+Zoom
+
+## Present
+Melody, Kiri, Mars
+
+## Minute Recorder
+Melody
+
+## Topics Discussed
 
  - Future maintenance of the project will be done by undergrads
    - Possibly use PHP not Adonis?
@@ -39,3 +56,6 @@
  - Added minutes for this meeting to GitHub
  - Discussed what we're doing at the other meeting we're having later today
  - Assigned out the rest of the design items to the team that were not finished at this meeting
+
+## Things Clarified
+ - Every person has two design items to work on before the 12th, and we'll have another meeting which was already scheduled as the meeting for this week at 3 PM today
