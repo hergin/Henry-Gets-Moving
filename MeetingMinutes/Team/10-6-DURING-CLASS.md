@@ -46,7 +46,7 @@ Melody
  - Discussed desires of the client, purposes of the immersive learning project, how they relate to the requirements and business requirements of the project
  - What happens if it's given to the Corps?
 
- - We refuse to do Angular
+ - We would prefer against Angular
  - It's no longer popular, and React is industry-aware
  - TypeScript is also more up-to-date than PHP
  - Plus, the client doesn't really care
