@@ -24,4 +24,4 @@ A web app for kids based off a book, encouraging healthy lifestyles at a young a
  - [Project Management](https://github.com/users/MarsWilliamsCode/projects/1/views/1)
 
 ## Code Repositories
-Coming soon!
+ - [Frontend](https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend)
