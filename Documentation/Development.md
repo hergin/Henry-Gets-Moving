@@ -9,5 +9,5 @@
 ## Run via Docker:
 - Clone project repository
 - Build: `docker build -t hgm .`
-- Run: `docker run -d -p 3000:3000 --name hgm hgm
+- Run: `docker run -d -p 3000:3000 --name hgm hgm`
 - Navigate to http://localhost:3000 in your browser!
