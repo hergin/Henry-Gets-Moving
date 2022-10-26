@@ -27,11 +27,11 @@ There is an `app` folder, containing controllers for the various tables, excepti
 ## Run via Docker:
 ### Frontend
 - Clone project repository
-- Build: `docker build -t hgm .`
-- Run: `docker run -d -p 3000:3000 --name hgm hgm`
+- `cd` into the project directory
+- Run `docker compose up`
 - Navigate to http://localhost:3000 in your browser!
 
 ### Backend
 - Clone project repository
-- Build: `docker build -t hgm-backend .`
-- Run: `docker run -d -p 3333:3333 --name hgm-backend hgm-backend`
+- `cd` into the project directory
+- Run `docker compose up`
