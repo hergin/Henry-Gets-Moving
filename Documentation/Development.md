@@ -24,7 +24,7 @@ There is an `app` folder, containing controllers for the various tables, excepti
 - Run `npm test`
 - Information about how many tests in which suites passed and failed will be displayed
 
-## Run via Docker:
+## Replicating via Docker:
 ### Frontend
 - Clone project repository
 - `cd` into the project directory
