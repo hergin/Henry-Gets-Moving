@@ -69,3 +69,10 @@
 
 ### Download images of digitized versions of paper games
 <img width="1792" alt="image" src="https://user-images.githubusercontent.com/70546234/200654214-a6798f4b-be5e-4fef-b555-6ecd0346529a.png">
+
+## Managing the Exercises and Recipes databases _(Administrator)_
+### Navigate to the `/admin` URL on the website
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/70546234/200654832-7f02d016-1340-4c24-aa9d-0d201143585c.png">
+
+### Edit exercises, recipes, and set Recipe of the Day and Exercise of the Day
+<img width="1792" alt="image" src="https://user-images.githubusercontent.com/70546234/200654931-999c8cf3-791f-4aff-94e9-4f8ba89648b3.png">
