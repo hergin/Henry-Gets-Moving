@@ -7,7 +7,7 @@
 2022/11/29/10:45
 
 ## Location / Medium
-Zoom
+Not really anything I guess. Inside my brain…
 
 ## Present
 Melody
