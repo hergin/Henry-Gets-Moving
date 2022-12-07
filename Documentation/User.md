@@ -83,6 +83,14 @@
 ### Click an individual demonstration to see an associated video
 <img width="1790" alt="image" src="https://user-images.githubusercontent.com/70546234/206314705-3aa9c25b-bb89-42d9-ab17-7a3410952f41.png">
 
+## View more of a paginated list of database items
+
+### If the page you're viewing has more than eight items, click "Show more"
+<img width="1584" alt="image" src="https://user-images.githubusercontent.com/70546234/206317265-e5d7cf3a-5e54-4af9-b719-10f5afc45797.png">
+
+### The rest of the items will display
+<img width="1629" alt="image" src="https://user-images.githubusercontent.com/70546234/206317322-28e868fc-c488-4c29-9fa9-9a882ee95150.png">
+
 ## Viewing available games
 ### Click "Games" in the header
 <img width="289" alt="image" src="https://user-images.githubusercontent.com/70546234/200653957-028955a9-4b41-4241-9a32-f42cdbf58ef8.png">
