@@ -56,8 +56,8 @@
 ### On the "Get Moving" page, click "View All Logs"
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/70546234/200653232-bb70fc04-f035-44f9-b29a-993353bb729e.png">
 
-### Select individual dates on the calendar to view exercise logs for that date
-<img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672608-7e606bae-d985-466e-be16-43edae24763a.png">
+### Select individual dates on the calendar to view exercise logs for specific family members on that date
+(ADD)
 
 ## Viewing healthy recipes
 ### On the main home page, hover over "Eat Healthy" in the header
@@ -79,9 +79,9 @@
 ### Download images of digitized versions of paper games
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672783-81148ccb-93d9-47ce-bee5-592cf6a29bb3.png">
 
-## Managing the Exercises and Recipes databases _(Administrator)_
+## Managing the Exercises, Recipes, Demonstrations and Diagrams databases _(Administrator)_
 ### Navigate to the `/admin` URL on the website
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/70546234/200654832-7f02d016-1340-4c24-aa9d-0d201143585c.png">
 
-### Edit exercises, recipes, and set Recipe of the Day and Exercise of the Day
-<img width="1792" alt="image" src="https://user-images.githubusercontent.com/70546234/200654931-999c8cf3-791f-4aff-94e9-4f8ba89648b3.png">
+### Edit exercises, recipes, demonstrations, diagrams, and set "Of the Day"s for exercises and recipes
+<img width="1792" alt="image" src="https://user-images.githubusercontent.com/70546234/206311681-e91963f0-cf9b-4434-a9f4-ce5cd09ba0d2.png">
