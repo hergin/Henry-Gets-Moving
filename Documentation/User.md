@@ -57,7 +57,7 @@
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/70546234/200653232-bb70fc04-f035-44f9-b29a-993353bb729e.png">
 
 ### Select individual dates on the calendar to view exercise logs for specific family members on that date
-<img width="1787" alt="image" src="https://user-images.githubusercontent.com/70546234/206318128-aed0f78c-a97c-479e-a851-830001aaf0e9.png">
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/70546234/206322289-34008ab0-d925-4eb6-b778-b2702d468e35.png">
 
 ## Viewing healthy recipes
 ### On the main home page, hover over "Eat Healthy" in the header
