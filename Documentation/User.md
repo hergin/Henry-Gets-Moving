@@ -72,6 +72,17 @@
 ### Click on the thumbnail of an individual recipe to view ingredients and cooking instructions
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672704-d03e3ee9-6cb2-44f7-b677-0d36b36a44b7.png">
 
+## Viewing demonstrations and diagrams
+
+### Click "Learn More" in the drop-down menu in the header
+<img width="164" alt="image" src="https://user-images.githubusercontent.com/70546234/206314790-3384c9a1-7034-41b6-b593-a17adaa5dd01.png">
+
+### View all diagrams, plus filter demonstrations by category and search
+<img width="1788" alt="image" src="https://user-images.githubusercontent.com/70546234/206314616-533e1b95-f22f-4571-af5d-7929174507ff.png">
+
+### Click an individual demonstration to see an associated video
+<img width="1790" alt="image" src="https://user-images.githubusercontent.com/70546234/206314705-3aa9c25b-bb89-42d9-ab17-7a3410952f41.png">
+
 ## Viewing available games
 ### Click "Games" in the header
 <img width="289" alt="image" src="https://user-images.githubusercontent.com/70546234/200653957-028955a9-4b41-4241-9a32-f42cdbf58ef8.png">
