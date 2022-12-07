@@ -2,6 +2,12 @@
 ### Start on the main page of the website upon navigating to the URL
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200671280-37dbb80a-8ee7-444d-92dc-c621a81736e2.png">
 
+## Navigating on mobile
+### Click the hamburger menu in the top right corner
+<img width="276" alt="image" src="https://user-images.githubusercontent.com/70546234/206298742-6e145f25-79ab-43c1-a856-1a5d5421a5e0.png">
+### Select a page to navigate to from the menu that appears
+<img width="271" alt="image" src="https://user-images.githubusercontent.com/70546234/206298684-4993c187-412a-4d9f-add4-487d2f9c5b22.png">
+
 ## Account creation
 ### Click the "Login" button in the top right corner
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/70546234/200671472-6e7907de-94b9-41be-8044-31152ab46e76.png">
@@ -54,8 +60,11 @@
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672608-7e606bae-d985-466e-be16-43edae24763a.png">
 
 ## Viewing healthy recipes
-### On the main home page, click "Eat Healthy" in the header
-<img width="545" alt="image" src="https://user-images.githubusercontent.com/70546234/200653489-e8bdae61-b9a4-4de4-ba07-f97b3bf66f0a.png">
+### On the main home page, hover over "Eat Healthy" in the header
+<img width="199" alt="image" src="https://user-images.githubusercontent.com/70546234/206299186-d101d36d-be61-486c-b501-deff13ab662e.png">
+
+### Select "Recipes" from the drop-down menu
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/70546234/206299245-94483875-29d3-4651-8424-409dc031401e.png">
 
 ### View all available recipes and search / filter by category
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672673-ea5abe3d-6451-48be-9fbb-178a0b7a49f4.png">
