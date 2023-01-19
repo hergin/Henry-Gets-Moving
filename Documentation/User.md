@@ -5,6 +5,7 @@
 ## Navigating on mobile
 ### Click the hamburger menu in the top right corner
 <img width="276" alt="image" src="https://user-images.githubusercontent.com/70546234/206298742-6e145f25-79ab-43c1-a856-1a5d5421a5e0.png">
+
 ### Select a page to navigate to from the menu that appears
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/70546234/206298684-4993c187-412a-4d9f-add4-487d2f9c5b22.png">
 
