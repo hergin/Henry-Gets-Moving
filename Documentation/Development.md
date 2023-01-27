@@ -37,9 +37,6 @@ There is an `app` folder, containing controllers for the various tables, excepti
 - Run `docker compose up`
 
 ## Linting
-### Frontend
-- TBA
-
-### Backend
+### Frontend and Backend
 - `cd` into the project directory
 - Run `npm run lint`
