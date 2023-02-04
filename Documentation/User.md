@@ -45,8 +45,8 @@
 ### Click "Get Moving" in the header
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/70546234/200652080-20d0fbaa-59f6-4596-ac1b-d522336b534a.png">
 
-### See currently-logged exercise, available exercises, and Exercise of the Day
-<img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672204-642df1a3-1250-402b-a697-62e753dbac29.png">
+### See currently-logged exercise per family member, available exercises, and Exercise of the Day
+![image](https://user-images.githubusercontent.com/70546234/216741737-3116b781-4f98-40b4-9696-b613de5ab26a.png)
 
 ### Click an individual exercise to view its video and details
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672299-770fb929-ae44-4079-9319-8a4b9d9e3fc1.png">
