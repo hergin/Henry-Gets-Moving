@@ -104,8 +104,8 @@
 ### Click "Games" in the header
 <img width="289" alt="image" src="https://user-images.githubusercontent.com/70546234/200653957-028955a9-4b41-4241-9a32-f42cdbf58ef8.png">
 
-### Download images of digitized versions of paper games
-<img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672783-81148ccb-93d9-47ce-bee5-592cf6a29bb3.png">
+### Play the Healthy Eating Crossword Puzzle
+![image](https://user-images.githubusercontent.com/70546234/216745428-3d14ca1a-f5ae-4aed-96aa-bd8ae3669ff4.png)
 
 ## Managing the Exercises, Recipes, Demonstrations and Diagrams databases _(Administrator)_
 ### Navigate to the `/admin` URL on the website
