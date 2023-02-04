@@ -26,6 +26,14 @@
 ### Enter your email and click "Login"
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672019-d3d5ddea-f367-453f-a671-cdfa907804f1.png">
 
+## Reading the story
+### Navigate to the Home page from the header
+![image](https://user-images.githubusercontent.com/70546234/216741205-75b0f784-3cf2-493d-bec1-d224c95c0b46.png)
+### Click the image of the title cover below the header
+![image](https://user-images.githubusercontent.com/70546234/216741263-cbae0d5c-4626-4586-b127-d8191e9c6b37.png)
+### The PDF will either open or download, depending on your browser
+![image](https://user-images.githubusercontent.com/70546234/216741307-b6f30e8b-c207-4d90-8404-dcca4e8621da.png)
+
 ## Viewing the About page
 ### Click "About" in the website header
 <img width="547" alt="image" src="https://user-images.githubusercontent.com/70546234/200651467-ee69bb45-9127-417c-a2b9-e5f12521199a.png">
