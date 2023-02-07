@@ -5,6 +5,7 @@
 # Start/Stop System
 - In order to start the system, you have to run `firebase init hosting`. In order to deploy it `firebase deploy --only hosting` needs to be run. In order to update the site `npm run build` and then `firebase deploy` are run.
 # Trouble Shooting
+- According to the Adonis Documentation "The AdonisJS Logger writes logs to stdout and stderr in JSON format. You can either set up an external logging service to read the logs from stdout/stderr, or forward them to a local file on the same server."
 - If something goes wrong then check to see if the build has been ran or if it has been deployed. 
 # Source of Errors
 - Where to find errors could be going to the console or terminal and seeing where the errors are happening.
