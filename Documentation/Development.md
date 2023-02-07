@@ -21,6 +21,7 @@ There is an `app` folder, containing controllers for the various tables, excepti
   - Run `npm start`
 - Navigate to http://localhost:3000 in your browser
 ### To test:
+- Make sure your .env declares the MYSQL_HOST as "localhost"
 - Run `npm test`
 - Information about how many tests in which suites passed and failed will be displayed
 
