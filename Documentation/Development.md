@@ -24,8 +24,10 @@ There is an `app` folder, containing controllers for the various tables, excepti
 - In the backend:
   - Make sure your .env declares the MYSQL_HOST as "localhost"
   - Run `node ace test`
+    - To run with coverage, use `npm run coverage`
 - In the frontend:
   - Run `npm test`
+    - To run with coverage, use `npm test -- --coverage`
 - Information about how many tests in which suites passed and failed will be displayed
 
 ## Replicating via Docker:
