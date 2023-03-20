@@ -26,6 +26,10 @@
 ### Enter your email and click "Login"
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/70546234/200672019-d3d5ddea-f367-453f-a671-cdfa907804f1.png">
 
+## Logging out
+### Once logged in, click the "Log out" button in the top right corner
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/70546234/226439029-5313569d-c3a2-4424-8e40-d307ae74b9d4.png">
+
 ## Reading the story
 ### Navigate to the Home page from the header
 ![image](https://user-images.githubusercontent.com/70546234/216741205-75b0f784-3cf2-493d-bec1-d224c95c0b46.png)
