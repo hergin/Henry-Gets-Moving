@@ -72,6 +72,10 @@
 ### Select individual dates on the calendar to view exercise logs for specific family members on that date
 <img width="560" alt="image" src="https://user-images.githubusercontent.com/70546234/206322289-34008ab0-d925-4eb6-b778-b2702d468e35.png">
 
+## Deleting exercise logs
+### On the log on the calendar page, click the red "Delete" button
+<img width="216" alt="image" src="https://user-images.githubusercontent.com/70546234/226444489-fa707b74-c629-4323-9dfe-191d4c3e184e.png">
+
 ## Viewing healthy recipes
 ### On the main home page, hover over "Eat Healthy" in the header
 <img width="199" alt="image" src="https://user-images.githubusercontent.com/70546234/206299186-d101d36d-be61-486c-b501-deff13ab662e.png">
