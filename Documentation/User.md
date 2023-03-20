@@ -117,5 +117,5 @@
 ### Navigate to the `/admin` URL on the website
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/70546234/200654832-7f02d016-1340-4c24-aa9d-0d201143585c.png">
 
-### Edit exercises, recipes, demonstrations, diagrams, and set "Of the Day"s for exercises and recipes
-<img width="1792" alt="image" src="https://user-images.githubusercontent.com/70546234/206311681-e91963f0-cf9b-4434-a9f4-ce5cd09ba0d2.png">
+### Edit exercises, recipes, demonstrations, diagrams, categories and set "Of the Day"s for exercises and recipes
+<img width="1722" alt="image" src="https://user-images.githubusercontent.com/70546234/226438130-7a1f0db5-6a2d-4be7-addb-6c1de5a54882.png">
