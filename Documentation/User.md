@@ -110,6 +110,9 @@
 ## Scroll Down and Play the Henry Gets Moving Word Search
 <img width="1482" alt="Screenshot 2023-02-06 at 5 53 09 PM" src="https://user-images.githubusercontent.com/97494551/217105666-6b912eda-7446-43a7-bd26-bfa96d49f943.png">
 
+## Scroll down more and click pictures to download printable games
+<img width="1294" alt="image" src="https://user-images.githubusercontent.com/70546234/226437760-4bc42d9a-b924-48c0-a533-11322cd8bb93.png">
+
 ## Managing the Exercises, Recipes, Demonstrations and Diagrams databases _(Administrator)_
 ### Navigate to the `/admin` URL on the website
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/70546234/200654832-7f02d016-1340-4c24-aa9d-0d201143585c.png">
