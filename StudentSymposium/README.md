@@ -39,7 +39,7 @@
 
 ## Kiri
 
-> your paragraph here
+> I had never been to a student symposium before so I thought that it was kinda cool. When I set up I went with other people from capstone so it was easy to find where everything was and where everyone else was set up. During that time I was able to walk around and see other peoples' boards and some people had presentation topics that I thought were really interesting and I wish I could have been there to see the presentation about it. I only was able to see the boards becuase I was only able to stay for the beginning before I had to leave because I had work.
 
 ## Mars
 
