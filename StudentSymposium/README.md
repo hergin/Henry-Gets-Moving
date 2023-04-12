@@ -43,4 +43,4 @@
 
 ## Mars
 
-> N/A
+> I was unable to attend due to a bad flare, but I was glad that my fellow groupmates were able to show off all our hard work to the rest of Ball State.
