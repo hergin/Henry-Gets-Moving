@@ -72,9 +72,16 @@
 ### Select individual dates on the calendar to view exercise logs for specific family members on that date
 <img width="560" alt="image" src="https://user-images.githubusercontent.com/70546234/206322289-34008ab0-d925-4eb6-b778-b2702d468e35.png">
 
-## Deleting exercise logs
-### On the log on the calendar page, click the red "Delete" button
-<img width="216" alt="image" src="https://user-images.githubusercontent.com/70546234/226444489-fa707b74-c629-4323-9dfe-191d4c3e184e.png">
+## Editing exercise logs
+### On the log on the calendar page, click the edit button
+![image](https://user-images.githubusercontent.com/70546234/232321821-0040b4d2-ebf5-4285-801d-697238726d78.png)
+
+### Change any of the fields of the log and click "Save log," or delete this exercise log by clicking "Delete log"
+![image](https://user-images.githubusercontent.com/70546234/232321864-89107b7e-f992-4114-b126-53d77b40d90f.png)
+
+## Editing or deleting a family member
+### On the calendar page, select a family member using the dropdown, change their name and click "Save changes," or click "Delete family member"
+![image](https://user-images.githubusercontent.com/70546234/232321646-ac87c65c-0efe-4294-ba12-a399314535f1.png)
 
 ## Viewing healthy recipes
 ### On the main home page, hover over "Eat Healthy" in the header
@@ -126,4 +133,4 @@
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/70546234/200654832-7f02d016-1340-4c24-aa9d-0d201143585c.png">
 
 ### Edit exercises, recipes, demonstrations, diagrams, categories and set "Of the Day"s for exercises and recipes
-<img width="1722" alt="image" src="https://user-images.githubusercontent.com/70546234/226438130-7a1f0db5-6a2d-4be7-addb-6c1de5a54882.png">
+![image](https://user-images.githubusercontent.com/70546234/232321422-f6963f69-dee1-461f-bde8-41b174161a70.png)
