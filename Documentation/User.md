@@ -132,5 +132,8 @@
 ### Navigate to the `/admin` URL on the website
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/70546234/200654832-7f02d016-1340-4c24-aa9d-0d201143585c.png">
 
+### Enter the admin password
+<img width="1366" alt="image" src="https://user-images.githubusercontent.com/70546234/232540613-9ba15f6e-e813-423a-ad88-8c3f0f562c2e.png">
+
 ### Edit exercises, recipes, demonstrations, diagrams, categories and set "Of the Day"s for exercises and recipes
 ![image](https://user-images.githubusercontent.com/70546234/232321422-f6963f69-dee1-461f-bde8-41b174161a70.png)
