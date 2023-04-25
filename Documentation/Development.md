@@ -10,6 +10,12 @@ There is an `app` folder, containing controllers for the various tables, excepti
 
 ## Replication of development environment:
 - Clone backend and frontend repositories
+> **With Git**:
+>   `git clone https://github.com/MarsWilliamsCode/Henry-Gets-Moving-Backend`
+>   `git clone https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend`
+> **With GitHub CLI**:
+>   `gh repo clone MarsWilliamsCode/Henry-Gets-Moving-Backend`
+>   `gh repo clone kiri-woodruff/Henry-Gets-Moving-Frontend`
 - For each repository:
   - `cd` into the root directory
   - Run `npm i`
@@ -23,6 +29,7 @@ There is an `app` folder, containing controllers for the various tables, excepti
 ### To test:
 - In the backend:
   - Make sure your .env declares the MYSQL_HOST as "localhost"
+> This means it should have a line `MYSQL_HOST=localhost` somewhere inside a file called `.env` in the repository root
   - Run `node ace test`
     - To run with coverage, use `npm run coverage`
 - In the frontend:
@@ -32,13 +39,13 @@ There is an `app` folder, containing controllers for the various tables, excepti
 
 ## Replicating via Docker:
 ### Frontend
-- Clone project repository
+- Clone project repository (`git clone https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend`)
 - `cd` into the project directory
 - Run `docker compose up`
 - Navigate to http://localhost:3000 in your browser!
 
 ### Backend
-- Clone project repository
+- Clone project repository (`git clone https://github.com/MarsWilliamsCode/Henry-Gets-Moving-Backend`)
 - `cd` into the project directory
 - Run `docker compose up`
 
