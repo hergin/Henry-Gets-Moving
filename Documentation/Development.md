@@ -10,12 +10,12 @@ There is an `app` folder, containing controllers for the various tables, excepti
 
 ## Replication of development environment:
 - Clone backend and frontend repositories
-> **With Git**:
->   `git clone https://github.com/MarsWilliamsCode/Henry-Gets-Moving-Backend`
->   `git clone https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend`
-> **With GitHub CLI**:
->   `gh repo clone MarsWilliamsCode/Henry-Gets-Moving-Backend`
->   `gh repo clone kiri-woodruff/Henry-Gets-Moving-Frontend`
+> **With Git**:<br>
+>   `git clone https://github.com/MarsWilliamsCode/Henry-Gets-Moving-Backend`<br>
+>   `git clone https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend`<br>
+> **With GitHub CLI**:<br>
+>   `gh repo clone MarsWilliamsCode/Henry-Gets-Moving-Backend`<br>
+>   `gh repo clone kiri-woodruff/Henry-Gets-Moving-Frontend`<br>
 - For each repository:
   - `cd` into the root directory
   - Run `npm i`
