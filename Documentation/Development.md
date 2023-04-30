@@ -41,7 +41,8 @@ There is an `app` folder, containing controllers for the various tables, excepti
 ### Frontend
 - Clone project repository (`git clone https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend`)
 - `cd` into the project directory
-- Run `npm start`
+- Build: `docker build -t hgm .`
+- Run: `docker run -d -p 3000:3000 --name hgm hgm`
 - Navigate to http://localhost:3000 in your browser!
 
 ### Backend
