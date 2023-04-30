@@ -41,13 +41,14 @@ There is an `app` folder, containing controllers for the various tables, excepti
 ### Frontend
 - Clone project repository (`git clone https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend`)
 - `cd` into the project directory
-- Run `docker compose up`
+- Run `npm start`
 - Navigate to http://localhost:3000 in your browser!
 
 ### Backend
 - Clone project repository (`git clone https://github.com/MarsWilliamsCode/Henry-Gets-Moving-Backend`)
 - `cd` into the project directory
 - Run `docker compose up`
+- Allow the migrations to run
 
 ## Linting
 ### Frontend and Backend
