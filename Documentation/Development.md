@@ -11,11 +11,11 @@ There is an `app` folder, containing controllers for the various tables, excepti
 ## Replication of development environment:
 - Clone backend and frontend repositories
 > **With Git**:<br>
->   `git clone https://github.com/MarsWilliamsCode/Henry-Gets-Moving-Backend`<br>
->   `git clone https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend`<br>
+>   `git clone https://github.com/hergin/Henry-Gets-Moving-Backend`<br>
+>   `git clone https://github.com/hergin/Henry-Gets-Moving-Frontend`<br>
 > **With GitHub CLI**:<br>
->   `gh repo clone MarsWilliamsCode/Henry-Gets-Moving-Backend`<br>
->   `gh repo clone kiri-woodruff/Henry-Gets-Moving-Frontend`<br>
+>   `gh repo clone hergin/Henry-Gets-Moving-Backend`<br>
+>   `gh repo clone hergin/Henry-Gets-Moving-Frontend`<br>
 - For each repository:
   - `cd` into the root directory
   - Run `npm i`
@@ -39,14 +39,14 @@ There is an `app` folder, containing controllers for the various tables, excepti
 
 ## Replicating via Docker:
 ### Frontend
-- Clone project repository (`git clone https://github.com/kiri-woodruff/Henry-Gets-Moving-Frontend`)
+- Clone project repository (`git clone https://github.com/hergin/Henry-Gets-Moving-Frontend`)
 - `cd` into the project directory
 - Build: `docker build -t hgm .`
 - Run: `docker run -d -p 3000:3000 --name hgm hgm`
 - Navigate to http://localhost:3000 in your browser!
 
 ### Backend
-- Clone project repository (`git clone https://github.com/MarsWilliamsCode/Henry-Gets-Moving-Backend`)
+- Clone project repository (`git clone https://github.com/hergin/Henry-Gets-Moving-Backend`)
 - `cd` into the project directory
 - Run `docker compose up`
 - Allow the migrations to run
